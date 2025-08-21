@@ -1,1 +1,2 @@
 This file is used for learning git command and web development.
+My name is Denzel Washington and I am passionate about programming.
