@@ -1,1 +1,1 @@
-This file is used for learning git commands.
+This file is used for learning git command and web development.
