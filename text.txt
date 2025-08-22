@@ -7,3 +7,4 @@ This is my final practise.
 Actually this is the last one.
 I did this exercise in the morning.
 My secong exercise in the morning.
+I have now fully mastered git commands.
